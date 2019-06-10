@@ -1,29 +1,9 @@
 # simplealertcomponent
 
-## Project setup
-```
-npm install
-```
+A very simple alert component for Vue, built to explain how to publish npm packages, and consume them in your projects
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+### Install
 
-### Compiles and minifies for production
+```js
+npm i simplealertcomponent --save
 ```
-npm run build
-```
-
-### Run your tests
-```
-npm run test
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
