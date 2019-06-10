@@ -1,6 +1,6 @@
 {
   "name": "simplealertcomponent",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "main": "dist/simplealertcomponent.umd.js",
   "module": "dist/simplealertcomponent.esm.js",
   "unpkg": "dist/simplealertcomponent.min.js",
